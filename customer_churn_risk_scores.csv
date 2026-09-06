@@ -1,0 +1,16 @@
+CustomerID,Churn,ChurnProbability,RiskLevel,TenureMonths,ContractType,SubscriptionType,MonthlyCharges,SupportTickets,PaymentMethod
+CUST-1003,Yes,0.8737304465331936,High,6,Month-to-Month,Basic,49.99,5,UPI
+CUST-1014,Yes,0.867231680840408,High,2,Month-to-Month,Basic,49.99,5,UPI
+CUST-1007,Yes,0.8646756815704982,High,3,Month-to-Month,Basic,49.99,6,Credit Card
+CUST-1010,Yes,0.851725776722056,High,4,Month-to-Month,Basic,49.99,4,UPI
+CUST-1005,Yes,0.832351388601153,High,8,Month-to-Month,Pro,79.99,4,Debit Card
+CUST-1012,Yes,0.7981650225550689,High,14,Month-to-Month,Pro,79.99,3,Debit Card
+CUST-1001,Yes,0.7941250492939392,High,12,Month-to-Month,Basic,49.99,3,Credit Card
+CUST-1006,No,0.3358544477822016,Medium,18,One Year,Basic,49.99,2,UPI
+CUST-1009,No,0.22654520743357073,Low,15,One Year,Pro,79.99,2,Credit Card
+CUST-1013,No,0.19392324235178549,Low,22,One Year,Basic,49.99,1,Bank Transfer
+CUST-1002,No,0.1338922856602477,Low,24,One Year,Pro,79.99,1,Bank Transfer
+CUST-1011,No,0.11676459851459774,Low,30,Two Year,Enterprise,149.99,0,Credit Card
+CUST-1015,No,0.11571032994069698,Low,40,Two Year,Enterprise,149.99,1,Credit Card
+CUST-1004,No,0.09182096173675337,Low,36,Two Year,Enterprise,149.99,0,Credit Card
+CUST-1008,No,0.06319103635310933,Low,48,Two Year,Enterprise,149.99,1,Bank Transfer
